@@ -2,6 +2,8 @@
 
 A 10-card memory game built with HTML, CSS, and JavaScript. Click two cards to flip them over. If they match, they stay face up. If not, they flip back over. The game is done when every pair has been found.
 
+**Live demo:** https://soyalrjbk.github.io/Memory-Card-Game
+
 [![Screenshot-2026-10-04-at-1-57-55-AM.png](https://i.postimg.cc/3wLBkSFv/Screenshot-2026-10-04-at-1-57-55-AM.png)](https://postimg.cc/4K9tM1Mf)
 ## How It's Made:
 
